@@ -1,0 +1,112 @@
+@media all and (max-width :991px){
+	.clean-section {
+		height:auto;
+	}
+	
+	.about-right {
+		padding-top: 60px;
+	}
+	
+	.right-content h4::after {
+		display:none;
+	}
+	
+	.service-section {
+		position:inherit;
+	}
+	
+	.service-item {
+		margin:5px auto;
+	}
+	
+	.about-section {
+		padding-top: 108px;
+		overflow: hidden;
+	}
+	
+	.logo a {
+		margin: 20px auto;
+		text-align:center;
+	}
+}
+
+
+@media all and (max-width :767px){
+	.topbar-right {
+		float: none;
+	}
+
+}
+
+@media all and (max-width :664px){
+	.menu ul {
+		display: block;
+		text-align:center;
+	}
+	
+	.menu ul {
+		display: block;
+		text-align: center;
+		background: #372b2b;
+		padding: 4px;
+	}
+	
+	.header-section {
+		background: #FFFFFF;
+		padding: 10px 0px;
+	}
+	
+	.logo a {
+		margin: 20px auto;
+		text-align:center;
+	}
+	
+	.menu ul li a{
+		padding:10px 0px;
+		color:#FFFFFF;
+	}
+	
+	.menu ul li a:hover{
+		background:red;
+		color:#FFFFFF;
+		padding:10px 0px;
+	}
+}
+
+
+@media all and (max-width :576px){
+	.banner-content {
+		padding: 127px 30px;
+	}
+}
+
+
+
+
+@media all and (max-width :509px){
+	.clean-text{
+		bottom: -142px;
+	}
+	.patneer-item ul {
+		display: block;
+		text-align:center;
+		list-style: none;
+	}
+	.patneer-item ul li {
+		margin: 30px 9px;
+	}
+	
+
+}
+@media all and (max-width :445px){
+	
+}
+
+
+@media all and (max-width :358px){
+	.topbar-left ul {
+		display: block;
+	}
+}
+
+
